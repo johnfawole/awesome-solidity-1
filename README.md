@@ -82,8 +82,8 @@
 	* [Elena Dimitrova](https://blog.colony.io/@elena_di) – Dev at colony.io
 	* [Aragon techblog](https://blog.aragon.org/tag/development/)
 	* [Eric Elliot's blog about blockchain](https://medium.com/the-challenge)
-
-
+	* [Hacken] (https://hacken.io/)
+	* [Vitalik] (https://vitalik.ca/)
 
 <br>
 
